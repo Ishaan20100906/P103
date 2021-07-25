@@ -1,0 +1,25 @@
+body{
+    background-color: greenyellow;
+    color: whitesmoke;
+}
+
+.heading{
+    font-size: 25px;
+    width: 80%;
+}
+
+.name_of_objects{
+    color: red;
+    font-size: 25px;
+}
+
+#camera{
+    width: 450px;
+    height: 350px;
+    border: 2px solid white;
+}
+
+#result_object_name, #result_accuracy {
+    color: red;
+    font-size: 15px;
+}
